@@ -1,0 +1,10 @@
+5d2dafaf0a6403f7783d97563ae9c8d5dcde2981c4764e1f7ad1f26aa9572432  ./CHANGELOG.md
+138e84fc03b30e9d6869f4287bc7360f87f07a6f68d5e92b8c0daa1a43701055  ./LICENSE
+0d8aecb2d9dc90ecb1b1cbf0edfb4e8a505cdc3a09f06efccfbdaab992f16322  ./README.md
+fd9e541fda4c27949bcfd70865251d332b4204b72dd616ad3eed047d049260c3  ./docs/PRODUCT_DECISIONS.md
+9eee5e0f02a01ea5c5b208334b24cc281b8b130e7a71231ec744807e01d53a6f  ./docs/TEST_REPORT.md
+568df8c27e009be81262ad92b59cb9b6853ab7a9af358656183e34bb9e1faea7  ./docs/mock-ui.png
+3b636fcc25380b0641d72b87f812e7d898337a75b5165e67720bbbc445a45ffc  ./douyin-spark-simple.user.js
+f986fdc9b8c00b3ac9fea309a5da41403033c9fcf30d1c18a40e8e60ff90681c  ./package.json
+4beace3ecc316a51b2f5a0d8bf45b2a3ae61a475471ae54a3331a9dfc1bc45a5  ./tests/browser-smoke.py
+62393d6f44edc27f11ad1d28ed3ef9d20dd0e7859dc36d8b31931004e4df89bd  ./tests/test-core.cjs

@@ -1,0 +1,5 @@
+tools/config.json
+tools/profiles/
+tools/logs/
+__pycache__/
+*.pyc

@@ -1,0 +1,12 @@
+{
+  "name": "douyin-spark-simple",
+  "version": "0.6.0",
+  "private": true,
+  "description": "Manual Douyin chat check assistant (no automated sending)",
+  "scripts": {
+    "check": "node --check douyin-spark-simple.user.js",
+    "test": "node tests/test-core.cjs",
+    "test:browser": "python tests/browser-smoke.py"
+  },
+  "license": "MIT"
+}

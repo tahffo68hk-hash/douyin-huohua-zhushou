@@ -1,0 +1,413 @@
+{
+  "version": "0.5.2",
+  "buildId": "v052-idproof-20261009-r1",
+  "checkedAt": "2026-10-09T04:59:51.703Z",
+  "page": "douyin-chat",
+  "checks": {
+    "checkedAt": 1791521991703,
+    "chatPage": true,
+    "list": true,
+    "detail": true,
+    "editor": true,
+    "selected": 0,
+    "eligible": 0,
+    "ambiguous": 0,
+    "pending": 0,
+    "materials": 0,
+    "invalidPlans": 0,
+    "customTimes": 0,
+    "webLocks": true,
+    "scheduled": false,
+    "paused": false,
+    "identityDOM": {
+      "activeRowCount": 0,
+      "selectedRowIdAvailable": false,
+      "selectedRowIdConflict": false,
+      "selectionMethod": "no-selected-marker",
+      "headerIdAvailable": false,
+      "headerIdConflict": false,
+      "routeIdAvailable": false,
+      "detailIdAvailable": false,
+      "matchedStableId": false,
+      "verificationState": "UNVERIFIED",
+      "evidenceSources": [],
+      "selectedRowStructure": null,
+      "selectedRowAncestors": [],
+      "titleStructure": {
+        "tag": "div",
+        "classes": [
+          "conversationConversationItemtitleWrapper"
+        ],
+        "identityAttributeNames": [],
+        "dateMetadata": false,
+        "textLength": 5,
+        "children": [
+          {
+            "tag": "div",
+            "classes": [
+              "conversationConversationItemtitle"
+            ],
+            "identityAttributeNames": [],
+            "dateMetadata": false,
+            "textLength": 3,
+            "children": []
+          },
+          {
+            "tag": "div",
+            "classes": [
+              "ConversationItemTagNextToTitlewrapper"
+            ],
+            "identityAttributeNames": [],
+            "dateMetadata": false,
+            "textLength": 2,
+            "children": [
+              {
+                "tag": "div",
+                "classes": [
+                  "ConversationItemTagNextToTitleleft"
+                ],
+                "identityAttributeNames": [],
+                "dateMetadata": false,
+                "textLength": 0,
+                "children": []
+              },
+              {
+                "tag": "div",
+                "classes": [
+                  "ConversationItemTagNextToTitleleft"
+                ],
+                "identityAttributeNames": [],
+                "dateMetadata": false,
+                "textLength": 2,
+                "children": [
+                  {
+                    "tag": "div",
+                    "classes": [
+                      "ConversationItemTagNextToTitletimeStr"
+                    ],
+                    "identityAttributeNames": [],
+                    "dateMetadata": true,
+                    "textLength": 2,
+                    "children": []
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      },
+      "displayNameNode": {
+        "tag": "div",
+        "classes": [
+          "conversationConversationItemtitle"
+        ],
+        "parentTag": "div",
+        "parentClasses": [
+          "conversationConversationItemtitleWrapper"
+        ],
+        "textLength": 3
+      },
+      "dateNodeStructures": [
+        {
+          "tag": "div",
+          "classes": [
+            "ConversationItemTagNextToTitletimeStr"
+          ],
+          "parentTag": "div",
+          "parentClasses": [
+            "ConversationItemTagNextToTitleleft"
+          ],
+          "textLength": 2
+        }
+      ],
+      "headerStructure": {
+        "tag": "div",
+        "classes": [
+          "RightPanelHeadertitleContainer"
+        ],
+        "identityAttributeNames": [],
+        "dateMetadata": false,
+        "textLength": 3,
+        "children": [
+          {
+            "tag": "div",
+            "classes": [
+              "RightPanelHeadertitle"
+            ],
+            "identityAttributeNames": [],
+            "dateMetadata": false,
+            "textLength": 3,
+            "children": []
+          },
+          {
+            "tag": "div",
+            "classes": [],
+            "identityAttributeNames": [],
+            "dateMetadata": false,
+            "textLength": 0,
+            "children": []
+          }
+        ]
+      },
+      "headerAncestors": [
+        {
+          "depth": 0,
+          "tag": "div",
+          "classes": [
+            "RightPanelHeadertitleContainer"
+          ],
+          "identityAttributeNames": [],
+          "dateMetadata": false
+        },
+        {
+          "depth": 1,
+          "tag": "div",
+          "classes": [
+            "RightPanelHeadersummatyBox"
+          ],
+          "identityAttributeNames": [],
+          "dateMetadata": false
+        },
+        {
+          "depth": 2,
+          "tag": "div",
+          "classes": [
+            "RightPanelHeaderuser"
+          ],
+          "identityAttributeNames": [],
+          "dateMetadata": false
+        },
+        {
+          "depth": 3,
+          "tag": "div",
+          "classes": [
+            "RightPanelHeaderinfoContainer"
+          ],
+          "identityAttributeNames": [],
+          "dateMetadata": false
+        },
+        {
+          "depth": 4,
+          "tag": "div",
+          "classes": [
+            "RightPanelHeaderconvHeader"
+          ],
+          "identityAttributeNames": [],
+          "dateMetadata": false
+        },
+        {
+          "depth": 5,
+          "tag": "div",
+          "classes": [
+            "componentsRightPanelwrapper"
+          ],
+          "identityAttributeNames": [],
+          "dateMetadata": false
+        }
+      ]
+    }
+  },
+  "identityDOM": {
+    "activeRowCount": 0,
+    "selectedRowIdAvailable": false,
+    "selectedRowIdConflict": false,
+    "selectionMethod": "no-selected-marker",
+    "headerIdAvailable": false,
+    "headerIdConflict": false,
+    "routeIdAvailable": false,
+    "detailIdAvailable": false,
+    "matchedStableId": false,
+    "verificationState": "UNVERIFIED",
+    "evidenceSources": [],
+    "selectedRowStructure": null,
+    "selectedRowAncestors": [],
+    "titleStructure": {
+      "tag": "div",
+      "classes": [
+        "conversationConversationItemtitleWrapper"
+      ],
+      "identityAttributeNames": [],
+      "dateMetadata": false,
+      "textLength": 5,
+      "children": [
+        {
+          "tag": "div",
+          "classes": [
+            "conversationConversationItemtitle"
+          ],
+          "identityAttributeNames": [],
+          "dateMetadata": false,
+          "textLength": 3,
+          "children": []
+        },
+        {
+          "tag": "div",
+          "classes": [
+            "ConversationItemTagNextToTitlewrapper"
+          ],
+          "identityAttributeNames": [],
+          "dateMetadata": false,
+          "textLength": 2,
+          "children": [
+            {
+              "tag": "div",
+              "classes": [
+                "ConversationItemTagNextToTitleleft"
+              ],
+              "identityAttributeNames": [],
+              "dateMetadata": false,
+              "textLength": 0,
+              "children": []
+            },
+            {
+              "tag": "div",
+              "classes": [
+                "ConversationItemTagNextToTitleleft"
+              ],
+              "identityAttributeNames": [],
+              "dateMetadata": false,
+              "textLength": 2,
+              "children": [
+                {
+                  "tag": "div",
+                  "classes": [
+                    "ConversationItemTagNextToTitletimeStr"
+                  ],
+                  "identityAttributeNames": [],
+                  "dateMetadata": true,
+                  "textLength": 2,
+                  "children": []
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    "displayNameNode": {
+      "tag": "div",
+      "classes": [
+        "conversationConversationItemtitle"
+      ],
+      "parentTag": "div",
+      "parentClasses": [
+        "conversationConversationItemtitleWrapper"
+      ],
+      "textLength": 3
+    },
+    "dateNodeStructures": [
+      {
+        "tag": "div",
+        "classes": [
+          "ConversationItemTagNextToTitletimeStr"
+        ],
+        "parentTag": "div",
+        "parentClasses": [
+          "ConversationItemTagNextToTitleleft"
+        ],
+        "textLength": 2
+      }
+    ],
+    "headerStructure": {
+      "tag": "div",
+      "classes": [
+        "RightPanelHeadertitleContainer"
+      ],
+      "identityAttributeNames": [],
+      "dateMetadata": false,
+      "textLength": 3,
+      "children": [
+        {
+          "tag": "div",
+          "classes": [
+            "RightPanelHeadertitle"
+          ],
+          "identityAttributeNames": [],
+          "dateMetadata": false,
+          "textLength": 3,
+          "children": []
+        },
+        {
+          "tag": "div",
+          "classes": [],
+          "identityAttributeNames": [],
+          "dateMetadata": false,
+          "textLength": 0,
+          "children": []
+        }
+      ]
+    },
+    "headerAncestors": [
+      {
+        "depth": 0,
+        "tag": "div",
+        "classes": [
+          "RightPanelHeadertitleContainer"
+        ],
+        "identityAttributeNames": [],
+        "dateMetadata": false
+      },
+      {
+        "depth": 1,
+        "tag": "div",
+        "classes": [
+          "RightPanelHeadersummatyBox"
+        ],
+        "identityAttributeNames": [],
+        "dateMetadata": false
+      },
+      {
+        "depth": 2,
+        "tag": "div",
+        "classes": [
+          "RightPanelHeaderuser"
+        ],
+        "identityAttributeNames": [],
+        "dateMetadata": false
+      },
+      {
+        "depth": 3,
+        "tag": "div",
+        "classes": [
+          "RightPanelHeaderinfoContainer"
+        ],
+        "identityAttributeNames": [],
+        "dateMetadata": false
+      },
+      {
+        "depth": 4,
+        "tag": "div",
+        "classes": [
+          "RightPanelHeaderconvHeader"
+        ],
+        "identityAttributeNames": [],
+        "dateMetadata": false
+      },
+      {
+        "depth": 5,
+        "tag": "div",
+        "classes": [
+          "componentsRightPanelwrapper"
+        ],
+        "identityAttributeNames": [],
+        "dateMetadata": false
+      }
+    ]
+  },
+  "selectors": {
+    "conversation": [
+      "[data-e2e=\"conversation-item\"]",
+      "[class*=\"conversationConversationItemwrapper\"]",
+      "[class*=\"ConversationItemwrapper\"]"
+    ],
+    "editor": [
+      "div[data-slate-editor=\"true\"][contenteditable=\"true\"]",
+      "div[contenteditable=\"true\"][data-slate-editor]"
+    ],
+    "detail": [
+      "[class*=\"RightPanelHeadertitleContainer\"]",
+      "[class*=\"RightPanelHeader\"]"
+    ]
+  },
+  "note": "仅含 DOM 标签、通用类名、属性名、布尔值与数量；不含昵称、稳定 ID 值、聊天内容、URL、Cookie 或 Token"
+}

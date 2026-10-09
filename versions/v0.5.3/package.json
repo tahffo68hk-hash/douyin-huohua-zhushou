@@ -1,0 +1,16 @@
+{
+  "name": "douyin-spark-full",
+  "version": "0.5.3",
+  "private": true,
+  "description": "Non-official Douyin ScriptCat assistant - reminder center, task analytics, safe backup restore and personalized messaging",
+  "scripts": {
+    "check": "node --check douyin-spark-full.user.js",
+    "test": "node tests/test-full.cjs && node tests/test-v03.cjs && node tests/test-v04.cjs && node tests/test-v05.cjs && node tests/test-v052.cjs",
+    "test:browser": "python tests/test_browser_support.py && python tests/browser-smoke.py && python tests/browser-v03.py && python tests/browser-v04.py && python tests/browser-v05.py && python tests/browser-v052.py && python tests/browser-v053.py",
+    "test:scheduler": "python tests/test-scheduler.py"
+  },
+  "engines": {
+    "node": ">=18"
+  },
+  "license": "MIT"
+}

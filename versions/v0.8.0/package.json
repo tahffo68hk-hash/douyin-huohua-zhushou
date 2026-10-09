@@ -1,0 +1,12 @@
+{
+  "name": "douyin-spark-assistant",
+  "version": "0.8.0",
+  "private": true,
+  "description": "Foreground Douyin chat assistant, optional local scheduling and multi-profile tooling",
+  "scripts": {
+    "check": "node --check douyin-spark.user.js",
+    "test": "node tests/test-core.cjs",
+    "test:tools": "python tests/test-tools.py",
+    "test:browser": "python tests/test-browser.py"
+  }
+}

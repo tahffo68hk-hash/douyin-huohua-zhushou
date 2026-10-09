@@ -1,0 +1,11 @@
+{
+  "send_time": "20:30",
+  "callback_port": 7788,
+  "callback_token": "GENERATE_USING_MANAGER_PY_INIT",
+  "timeout_seconds": 300,
+  "between_accounts_seconds": 2,
+  "close_launched_browser": false,
+  "accounts": [
+    {"id":"account_1","browser":"chrome","profile_dir":"profiles/account_1","enabled":false}
+  ]
+}

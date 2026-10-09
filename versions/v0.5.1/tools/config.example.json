@@ -1,0 +1,24 @@
+{
+  "send_time": "20:30",
+  "callback_port": 7788,
+  "timeout_seconds": 300,
+  "retry_wait_minutes": 25,
+  "default_browser": "chrome",
+  "browser_paths": {
+    "chrome": "",
+    "edge": "",
+    "firefox": "",
+    "firefox-esr": "",
+    "centbrowser": ""
+  },
+  "target_url": "https://www.douyin.com/chat",
+  "accounts": [
+    {
+      "name": "我的抖音账号",
+      "profile_path": "profiles/account1",
+      "browser": "chrome",
+      "send_time": "20:30",
+      "callback_token": "请替换为至少16字符且与浏览器脚本高级设置一致的随机令牌"
+    }
+  ]
+}

@@ -1,0 +1,5 @@
+{
+  "name":"douyin-spark-reference-ui","version":"0.9.2","private":true,
+  "description":"Reference engine with custom Spark UI for Douyin web chat",
+  "scripts":{"check":"node --check douyin-spark.user.js","test:source":"python tests/test_source.py","test:themes":"python tests/test_themes.py && python tests/test_dialogs.py","test:browser":"python tests/test_browser.py && python tests/test_features.py","test:tools":"python tests/test_tools.py"}
+}

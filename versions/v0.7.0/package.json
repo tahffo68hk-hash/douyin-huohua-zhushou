@@ -1,0 +1,11 @@
+{
+  "name": "douyin-spark-assistant",
+  "version": "0.7.0",
+  "private": true,
+  "description": "Douyin chat list scanning, checkbox-driven foreground sends and optional modules",
+  "scripts": {
+    "check": "node --check douyin-spark.user.js",
+    "test": "node tests/test-core.cjs",
+    "test:browser": "python tests/browser-smoke.py && python tests/browser-safety.py"
+  }
+}
